@@ -1,0 +1,10 @@
+C:\Users\Hüseyin\source\repos\CSharpCource\021_Ado_Net_Demo\bin\Debug\021_Ado_Net_Demo.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\021_Ado_Net_Demo\bin\Debug\021_Ado_Net_Demo.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\021_Ado_Net_Demo\bin\Debug\021_Ado_Net_Demo.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\021_Ado_Net_Demo\obj\Debug\021_Ado_Net_Demo.csprojAssemblyReference.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\021_Ado_Net_Demo\obj\Debug\_021_Ado_Net_Demo.Form1.resources
+C:\Users\Hüseyin\source\repos\CSharpCource\021_Ado_Net_Demo\obj\Debug\_021_Ado_Net_Demo.Properties.Resources.resources
+C:\Users\Hüseyin\source\repos\CSharpCource\021_Ado_Net_Demo\obj\Debug\021_Ado_Net_Demo.csproj.GenerateResource.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\021_Ado_Net_Demo\obj\Debug\021_Ado_Net_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\021_Ado_Net_Demo\obj\Debug\021_Ado_Net_Demo.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\021_Ado_Net_Demo\obj\Debug\021_Ado_Net_Demo.pdb

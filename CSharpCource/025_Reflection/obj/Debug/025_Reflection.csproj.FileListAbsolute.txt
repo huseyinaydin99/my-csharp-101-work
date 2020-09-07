@@ -1,0 +1,7 @@
+C:\Users\Hüseyin\source\repos\CSharpCource\025_Reflection\bin\Debug\025_Reflection.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\025_Reflection\bin\Debug\025_Reflection.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\025_Reflection\bin\Debug\025_Reflection.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\025_Reflection\obj\Debug\025_Reflection.csprojAssemblyReference.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\025_Reflection\obj\Debug\025_Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\025_Reflection\obj\Debug\025_Reflection.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\025_Reflection\obj\Debug\025_Reflection.pdb

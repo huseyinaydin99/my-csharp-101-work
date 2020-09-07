@@ -1,0 +1,7 @@
+C:\Users\Hüseyin\source\repos\CSharpCource\002_Conditionals\bin\Debug\002_Conditionals.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\002_Conditionals\bin\Debug\002_Conditionals.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\002_Conditionals\bin\Debug\002_Conditionals.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\002_Conditionals\obj\Debug\002_Conditionals.csprojAssemblyReference.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\002_Conditionals\obj\Debug\002_Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\002_Conditionals\obj\Debug\002_Conditionals.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\002_Conditionals\obj\Debug\002_Conditionals.pdb

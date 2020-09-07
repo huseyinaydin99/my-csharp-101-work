@@ -1,0 +1,7 @@
+C:\Users\Hüseyin\source\repos\CSharpCource\005_Loops\bin\Debug\005_Loops.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\005_Loops\bin\Debug\005_Loops.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\005_Loops\bin\Debug\005_Loops.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\005_Loops\obj\Debug\005_Loops.csprojAssemblyReference.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\005_Loops\obj\Debug\005_Loops.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\005_Loops\obj\Debug\005_Loops.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\005_Loops\obj\Debug\005_Loops.pdb

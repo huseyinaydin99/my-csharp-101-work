@@ -1,0 +1,7 @@
+C:\Users\Hüseyin\source\repos\CSharpCource\017_Constructor\bin\Debug\017_Constructor.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\017_Constructor\bin\Debug\017_Constructor.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\017_Constructor\bin\Debug\017_Constructor.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\017_Constructor\obj\Debug\017_Constructor.csprojAssemblyReference.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\017_Constructor\obj\Debug\017_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\017_Constructor\obj\Debug\017_Constructor.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\017_Constructor\obj\Debug\017_Constructor.pdb

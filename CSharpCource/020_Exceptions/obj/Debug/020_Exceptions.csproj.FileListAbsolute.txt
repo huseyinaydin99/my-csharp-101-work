@@ -1,0 +1,7 @@
+C:\Users\Hüseyin\source\repos\CSharpCource\020_Exceptions\bin\Debug\020_Exceptions.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\020_Exceptions\bin\Debug\020_Exceptions.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\020_Exceptions\bin\Debug\020_Exceptions.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\020_Exceptions\obj\Debug\020_Exceptions.csprojAssemblyReference.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\020_Exceptions\obj\Debug\020_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\020_Exceptions\obj\Debug\020_Exceptions.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\020_Exceptions\obj\Debug\020_Exceptions.pdb

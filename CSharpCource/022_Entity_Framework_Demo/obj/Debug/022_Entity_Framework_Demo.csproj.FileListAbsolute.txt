@@ -1,0 +1,15 @@
+C:\Users\Hüseyin\source\repos\CSharpCource\022_Entity_Framework_Demo\bin\Debug\022_Entity_Framework_Demo.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\022_Entity_Framework_Demo\bin\Debug\022_Entity_Framework_Demo.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\022_Entity_Framework_Demo\bin\Debug\022_Entity_Framework_Demo.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\022_Entity_Framework_Demo\bin\Debug\EntityFramework.dll
+C:\Users\Hüseyin\source\repos\CSharpCource\022_Entity_Framework_Demo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hüseyin\source\repos\CSharpCource\022_Entity_Framework_Demo\bin\Debug\EntityFramework.xml
+C:\Users\Hüseyin\source\repos\CSharpCource\022_Entity_Framework_Demo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hüseyin\source\repos\CSharpCource\022_Entity_Framework_Demo\obj\Debug\022_Entity_Framework_Demo.csprojAssemblyReference.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\022_Entity_Framework_Demo\obj\Debug\_022_Entity_Framework_Demo.Form1.resources
+C:\Users\Hüseyin\source\repos\CSharpCource\022_Entity_Framework_Demo\obj\Debug\_022_Entity_Framework_Demo.Properties.Resources.resources
+C:\Users\Hüseyin\source\repos\CSharpCource\022_Entity_Framework_Demo\obj\Debug\022_Entity_Framework_Demo.csproj.GenerateResource.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\022_Entity_Framework_Demo\obj\Debug\022_Entity_Framework_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\022_Entity_Framework_Demo\obj\Debug\022_Entity_Framework_Demo.csproj.CopyComplete
+C:\Users\Hüseyin\source\repos\CSharpCource\022_Entity_Framework_Demo\obj\Debug\022_Entity_Framework_Demo.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\022_Entity_Framework_Demo\obj\Debug\022_Entity_Framework_Demo.pdb

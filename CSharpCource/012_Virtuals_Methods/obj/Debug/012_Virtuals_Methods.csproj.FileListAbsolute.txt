@@ -1,0 +1,6 @@
+C:\Users\Hüseyin\source\repos\CSharpCource\012_Virtuals_Methods\bin\Debug\012_Virtuals_Methods.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\012_Virtuals_Methods\bin\Debug\012_Virtuals_Methods.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\012_Virtuals_Methods\bin\Debug\012_Virtuals_Methods.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\012_Virtuals_Methods\obj\Debug\012_Virtuals_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\012_Virtuals_Methods\obj\Debug\012_Virtuals_Methods.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\012_Virtuals_Methods\obj\Debug\012_Virtuals_Methods.pdb

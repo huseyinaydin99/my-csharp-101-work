@@ -1,0 +1,7 @@
+C:\Users\Hüseyin\source\repos\CSharpCource\019_Collections\bin\Debug\019_Collections.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\019_Collections\bin\Debug\019_Collections.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\019_Collections\bin\Debug\019_Collections.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\019_Collections\obj\Debug\019_Collections.csprojAssemblyReference.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\019_Collections\obj\Debug\019_Collections.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\019_Collections\obj\Debug\019_Collections.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\019_Collections\obj\Debug\019_Collections.pdb

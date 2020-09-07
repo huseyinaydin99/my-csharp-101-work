@@ -1,0 +1,7 @@
+C:\Users\Hüseyin\source\repos\CSharpCource\011_Inheritance\bin\Debug\011_Inheritance.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\011_Inheritance\bin\Debug\011_Inheritance.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\011_Inheritance\bin\Debug\011_Inheritance.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\011_Inheritance\obj\Debug\011_Inheritance.csprojAssemblyReference.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\011_Inheritance\obj\Debug\011_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\011_Inheritance\obj\Debug\011_Inheritance.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\011_Inheritance\obj\Debug\011_Inheritance.pdb

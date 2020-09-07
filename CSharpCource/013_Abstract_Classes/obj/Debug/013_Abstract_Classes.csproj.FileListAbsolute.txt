@@ -1,0 +1,7 @@
+C:\Users\Hüseyin\source\repos\CSharpCource\013_Abstract_Classes\bin\Debug\013_Abstract_Classes.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\013_Abstract_Classes\bin\Debug\013_Abstract_Classes.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\013_Abstract_Classes\bin\Debug\013_Abstract_Classes.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\013_Abstract_Classes\obj\Debug\013_Abstract_Classes.csprojAssemblyReference.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\013_Abstract_Classes\obj\Debug\013_Abstract_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\013_Abstract_Classes\obj\Debug\013_Abstract_Classes.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\013_Abstract_Classes\obj\Debug\013_Abstract_Classes.pdb

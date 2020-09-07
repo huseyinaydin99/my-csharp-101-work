@@ -1,0 +1,6 @@
+C:\Users\Hüseyin\source\repos\CSharpCource\014_RecapDemo\bin\Debug\014_RecapDemo.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\014_RecapDemo\bin\Debug\014_RecapDemo.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\014_RecapDemo\bin\Debug\014_RecapDemo.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\014_RecapDemo\obj\Debug\014_RecapDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\014_RecapDemo\obj\Debug\014_RecapDemo.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\014_RecapDemo\obj\Debug\014_RecapDemo.pdb

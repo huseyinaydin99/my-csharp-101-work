@@ -1,0 +1,7 @@
+C:\Users\Hüseyin\source\repos\CSharpCource\015_AccessModifiers\obj\Debug\015_AccessModifiers.csprojAssemblyReference.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\015_AccessModifiers\obj\Debug\015_AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\015_AccessModifiers\bin\Debug\015_AccessModifiers.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\015_AccessModifiers\bin\Debug\015_AccessModifiers.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\015_AccessModifiers\bin\Debug\015_AccessModifiers.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\015_AccessModifiers\obj\Debug\015_AccessModifiers.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\015_AccessModifiers\obj\Debug\015_AccessModifiers.pdb

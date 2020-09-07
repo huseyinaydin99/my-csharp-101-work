@@ -1,0 +1,7 @@
+C:\Users\Hüseyin\source\repos\CSharpCource\023_Generics\bin\Debug\023_Generics.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\023_Generics\bin\Debug\023_Generics.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\023_Generics\bin\Debug\023_Generics.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\023_Generics\obj\Debug\023_Generics.csprojAssemblyReference.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\023_Generics\obj\Debug\023_Generics.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\023_Generics\obj\Debug\023_Generics.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\023_Generics\obj\Debug\023_Generics.pdb

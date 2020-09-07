@@ -1,0 +1,7 @@
+C:\Users\Hüseyin\source\repos\CSharpCource\027_Events\bin\Debug\027_Events.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\027_Events\bin\Debug\027_Events.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\027_Events\bin\Debug\027_Events.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\027_Events\obj\Debug\027_Events.csprojAssemblyReference.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\027_Events\obj\Debug\027_Events.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\027_Events\obj\Debug\027_Events.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\027_Events\obj\Debug\027_Events.pdb

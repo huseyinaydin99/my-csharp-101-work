@@ -1,0 +1,7 @@
+C:\Users\Hüseyin\source\repos\CSharpCource\009_Interfaceses\bin\Debug\009_Interfaceses.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\009_Interfaceses\bin\Debug\009_Interfaceses.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\009_Interfaceses\bin\Debug\009_Interfaceses.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\009_Interfaceses\obj\Debug\009_Interfaceses.csprojAssemblyReference.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\009_Interfaceses\obj\Debug\009_Interfaceses.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\009_Interfaceses\obj\Debug\009_Interfaceses.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\009_Interfaceses\obj\Debug\009_Interfaceses.pdb

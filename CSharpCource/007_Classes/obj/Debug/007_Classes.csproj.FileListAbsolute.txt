@@ -1,0 +1,7 @@
+C:\Users\Hüseyin\source\repos\CSharpCource\007_Classes\bin\Debug\007_Classes.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\007_Classes\bin\Debug\007_Classes.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\007_Classes\bin\Debug\007_Classes.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\007_Classes\obj\Debug\007_Classes.csprojAssemblyReference.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\007_Classes\obj\Debug\007_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\007_Classes\obj\Debug\007_Classes.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\007_Classes\obj\Debug\007_Classes.pdb

@@ -1,0 +1,7 @@
+C:\Users\Hüseyin\source\repos\CSharpCource\018_ReferenceAndValueType\bin\Debug\018_ReferenceAndValueType.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\018_ReferenceAndValueType\bin\Debug\018_ReferenceAndValueType.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\018_ReferenceAndValueType\bin\Debug\018_ReferenceAndValueType.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\018_ReferenceAndValueType\obj\Debug\018_ReferenceAndValueType.csprojAssemblyReference.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\018_ReferenceAndValueType\obj\Debug\018_ReferenceAndValueType.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\018_ReferenceAndValueType\obj\Debug\018_ReferenceAndValueType.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\018_ReferenceAndValueType\obj\Debug\018_ReferenceAndValueType.pdb

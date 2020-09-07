@@ -1,0 +1,7 @@
+C:\Users\Hüseyin\source\repos\CSharpCource\026_Delegates\bin\Debug\026_Delegates.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\026_Delegates\bin\Debug\026_Delegates.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\026_Delegates\bin\Debug\026_Delegates.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\026_Delegates\obj\Debug\026_Delegates.csprojAssemblyReference.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\026_Delegates\obj\Debug\026_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\026_Delegates\obj\Debug\026_Delegates.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\026_Delegates\obj\Debug\026_Delegates.pdb

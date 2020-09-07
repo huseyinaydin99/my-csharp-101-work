@@ -1,0 +1,6 @@
+C:\Users\Hüseyin\source\repos\CSharpCource\004_Arrays\bin\Debug\004_Arrays.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\004_Arrays\bin\Debug\004_Arrays.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\004_Arrays\bin\Debug\004_Arrays.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\004_Arrays\obj\Debug\004_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\004_Arrays\obj\Debug\004_Arrays.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\004_Arrays\obj\Debug\004_Arrays.pdb

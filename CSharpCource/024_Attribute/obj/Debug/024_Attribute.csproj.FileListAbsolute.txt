@@ -1,0 +1,7 @@
+C:\Users\Hüseyin\source\repos\CSharpCource\024_Attribute\bin\Debug\024_Attribute.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\024_Attribute\bin\Debug\024_Attribute.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\024_Attribute\bin\Debug\024_Attribute.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\024_Attribute\obj\Debug\024_Attribute.csprojAssemblyReference.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\024_Attribute\obj\Debug\024_Attribute.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\024_Attribute\obj\Debug\024_Attribute.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\024_Attribute\obj\Debug\024_Attribute.pdb

@@ -1,0 +1,10 @@
+C:\Users\Hüseyin\source\repos\CSharpCource\008_RecapDemo\bin\Debug\008_RecapDemo.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\008_RecapDemo\bin\Debug\008_RecapDemo.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\008_RecapDemo\bin\Debug\008_RecapDemo.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\008_RecapDemo\obj\Debug\008_RecapDemo.csprojAssemblyReference.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\008_RecapDemo\obj\Debug\_008_RecapDemo.Form1.resources
+C:\Users\Hüseyin\source\repos\CSharpCource\008_RecapDemo\obj\Debug\_008_RecapDemo.Properties.Resources.resources
+C:\Users\Hüseyin\source\repos\CSharpCource\008_RecapDemo\obj\Debug\008_RecapDemo.csproj.GenerateResource.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\008_RecapDemo\obj\Debug\008_RecapDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\008_RecapDemo\obj\Debug\008_RecapDemo.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\008_RecapDemo\obj\Debug\008_RecapDemo.pdb

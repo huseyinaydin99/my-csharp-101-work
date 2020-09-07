@@ -1,0 +1,7 @@
+C:\Users\Hüseyin\source\repos\CSharpCource\006_Strings\bin\Debug\006_Strings.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\006_Strings\bin\Debug\006_Strings.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\006_Strings\bin\Debug\006_Strings.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\006_Strings\obj\Debug\006_Strings.csprojAssemblyReference.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\006_Strings\obj\Debug\006_Strings.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\006_Strings\obj\Debug\006_Strings.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\006_Strings\obj\Debug\006_Strings.pdb

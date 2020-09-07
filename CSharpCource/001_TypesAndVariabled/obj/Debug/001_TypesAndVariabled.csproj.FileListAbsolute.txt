@@ -1,0 +1,7 @@
+C:\Users\Hüseyin\source\repos\CSharpCource\001_TypesAndVariabled\bin\Debug\001_TypesAndVariabled.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\001_TypesAndVariabled\bin\Debug\001_TypesAndVariabled.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\001_TypesAndVariabled\bin\Debug\001_TypesAndVariabled.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\001_TypesAndVariabled\obj\Debug\001_TypesAndVariabled.csprojAssemblyReference.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\001_TypesAndVariabled\obj\Debug\001_TypesAndVariabled.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\001_TypesAndVariabled\obj\Debug\001_TypesAndVariabled.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\001_TypesAndVariabled\obj\Debug\001_TypesAndVariabled.pdb

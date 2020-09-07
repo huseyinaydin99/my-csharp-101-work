@@ -1,0 +1,11 @@
+C:\Users\Hüseyin\source\repos\CSharpCource\016_AccessModifiers_Demo\obj\Debug\016_AccessModifiers_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\016_AccessModifiers_Demo\bin\Debug\016_AccessModifiers_Demo.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\016_AccessModifiers_Demo\bin\Debug\016_AccessModifiers_Demo.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\016_AccessModifiers_Demo\bin\Debug\016_AccessModifiers_Demo.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\016_AccessModifiers_Demo\bin\Debug\015_AccessModifiers.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\016_AccessModifiers_Demo\bin\Debug\015_AccessModifiers.pdb
+C:\Users\Hüseyin\source\repos\CSharpCource\016_AccessModifiers_Demo\bin\Debug\015_AccessModifiers.exe.config
+C:\Users\Hüseyin\source\repos\CSharpCource\016_AccessModifiers_Demo\obj\Debug\016_AccessModifiers_Demo.csprojAssemblyReference.cache
+C:\Users\Hüseyin\source\repos\CSharpCource\016_AccessModifiers_Demo\obj\Debug\016_AccessModifiers_Demo.csproj.CopyComplete
+C:\Users\Hüseyin\source\repos\CSharpCource\016_AccessModifiers_Demo\obj\Debug\016_AccessModifiers_Demo.exe
+C:\Users\Hüseyin\source\repos\CSharpCource\016_AccessModifiers_Demo\obj\Debug\016_AccessModifiers_Demo.pdb
